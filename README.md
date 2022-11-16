@@ -30,3 +30,4 @@ $ dotnet watch --project .
 # 参考
 - [使い方その1](https://aimek-developer.blogspot.com/2020/11/blazor-webassemblyvscode.html)
 - [使い方その2](https://blogs.jp.infragistics.com/entry/blazor-getting-started-vscode)
+- [REST api 作りたい時](https://dotnet.microsoft.com/ja-jp/apps/aspnet/apis)
