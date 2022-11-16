@@ -41,105 +41,6 @@
         }
       },
       {
-        "HashCode": -1149671344,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasmSample.Pages.Counter",
-        "AssemblyName": "BlazorWasmSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmSample.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 1783078161,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasmSample.Pages.Counter",
-        "AssemblyName": "BlazorWasmSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWasmSample.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmSample.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1537194728,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasmSample.Pages.FetchData",
-        "AssemblyName": "BlazorWasmSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmSample.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -1597163821,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasmSample.Pages.FetchData",
-        "AssemblyName": "BlazorWasmSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWasmSample.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmSample.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1426137885,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasmSample.Pages.Index",
-        "AssemblyName": "BlazorWasmSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmSample.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 1409122371,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasmSample.Pages.Index",
-        "AssemblyName": "BlazorWasmSample",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWasmSample.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmSample.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1318846782,
         "Kind": "Components.Component",
         "Name": "BlazorWasmSample.Shared.SurveyPrompt",
@@ -318,6 +219,105 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorWasmSample.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1537194728,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasmSample.Pages.FetchData",
+        "AssemblyName": "BlazorWasmSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasmSample.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -1597163821,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasmSample.Pages.FetchData",
+        "AssemblyName": "BlazorWasmSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWasmSample.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasmSample.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1426137885,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasmSample.Pages.Index",
+        "AssemblyName": "BlazorWasmSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasmSample.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 1409122371,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasmSample.Pages.Index",
+        "AssemblyName": "BlazorWasmSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWasmSample.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasmSample.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1149671344,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasmSample.Pages.Counter",
+        "AssemblyName": "BlazorWasmSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasmSample.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 1783078161,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasmSample.Pages.Counter",
+        "AssemblyName": "BlazorWasmSample",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWasmSample.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasmSample.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
